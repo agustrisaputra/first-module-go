@@ -1,4 +1,4 @@
-package first_module_cdgo
+package first_module_go
 
 func SayHello() string {
 	return "Hello"
